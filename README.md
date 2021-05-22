@@ -17,4 +17,4 @@ As future development, an interesting idea would be to make the board scalable s
 I am open to contributions, if you want to implement some cool features in this application, please feel free to make a pull request.
 
 ## License
-This project is licensed under [MIT][LICENSE] 
+This project is licensed under [MIT](https://choosealicense.com/licenses/mit/)
